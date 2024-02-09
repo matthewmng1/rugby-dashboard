@@ -1,0 +1,225 @@
+"match_id","team_id","team_name","player_id","player_name","player_position","player_minutesPlayed","player_index_score","tackles","tackle_errors","carries","carry_errors","metres_carried","passes","pass_errors","tries_scored","ruck_entries","ruck_errors","lineout_throws","lineout_throw_errors","lineout_contests_won","lineout_contest_errors","goal_kicks_made","goal_kicks_errors","kicks","kick_errors","reception_success","reception_failure"
+271663,2448,"Bath Rugby",128087,"Manu Vunipola","fly half",80,90.08,10,2,4,0,0,20,0,1,1,0,0,0,0,0,2,3,10,0,5,0
+271663,2448,"Bath Rugby",170435,"Rotimi Segun","right wing",80,78.33,16,1,3,1,0,1,0,1,5,0,0,0,0,0,0,0,0,0,5,1
+271663,2448,"Bath Rugby",132812,"Nathan Michelow","flanker",74,75.59,18,2,4,1,0,0,0,0,15,1,0,0,1,0,0,0,0,0,2,0
+271663,2448,"Bath Rugby",183874,"Elliot Daly","full back",40,71.26,1,0,2,0,0,3,0,0,0,1,0,0,0,0,0,0,6,1,6,0
+271663,2448,"Bath Rugby",116514,"Olly Hartley","inside centre",80,69.9,6,1,4,1,0,5,0,2,6,2,0,0,0,0,0,0,0,1,0,0
+271663,2448,"Bath Rugby",111209,"Toby Knight","flanker",80,79.55,24,4,7,0,0,3,0,0,22,2,0,0,0,0,0,0,0,0,4,1
+271663,2448,"Bath Rugby",194331,"Ethan Lewis","hooker",80,57.72,17,1,3,0,0,3,0,0,18,0,6,2,0,0,0,0,0,0,1,0
+271663,2448,"Bath Rugby",140351,"Chris Judge","tighthead prop",59,61.59,10,2,7,0,0,1,0,0,9,0,0,0,0,0,0,0,0,0,1,0
+271663,2448,"Bath Rugby",222867,"Callum Hunter-Hill","second row",80,66.23,8,2,5,1,0,1,0,0,10,0,0,0,2,0,0,0,0,0,3,1
+271663,2448,"Bath Rugby",177538,"Alex Wardell","second row",69,71.35,10,1,4,0,0,1,0,0,16,1,0,0,2,0,0,0,0,0,0,0
+271663,2448,"Bath Rugby",214137,"Ollie Stonham","number eight",67,72.57,9,2,7,1,0,2,0,0,10,0,0,0,1,0,0,0,1,0,1,0
+271663,2448,"Bath Rugby",103821,"Eroni Mawi","loosehead prop",11,99.99,8,0,4,0,0,2,0,0,11,0,0,0,0,0,0,0,0,0,1,0
+271663,2448,"Bath Rugby",144651,"Ruben de Haas","scrum half",69,74.09,5,0,1,0,0,44,0,0,0,0,0,0,0,0,0,0,11,0,1,0
+271663,2448,"Bath Rugby",117550,"Josh Hallett","loosehead prop",65,57.28,6,1,2,1,0,1,0,0,3,0,0,0,0,0,0,0,0,0,1,0
+271663,2448,"Bath Rugby",113605,"Ben Harris","loosehead prop",60,57.76,3,0,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,0
+271663,2448,"Bath Rugby",211792,"Robin Hislop","loosehead prop",38,61.46,7,0,4,0,0,0,0,0,7,2,0,0,0,0,0,0,0,0,0,0
+271663,2448,"Bath Rugby",204054,"Tobias Elliott","full back",40,68.61,1,2,5,0,0,1,0,0,2,0,0,0,0,0,0,0,1,0,6,1
+271663,2448,"Bath Rugby",211460,"Dom Morris","outside centre",28,75.74,2,1,1,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,1,0
+271663,2448,"Bath Rugby",110116,"Harvey Beaton","tighthead prop",21,61.85,2,0,2,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0
+271663,2448,"Bath Rugby",124431,"Samson Adejimi","hooker",13,65.32,4,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+271663,2448,"Bath Rugby",239403,"Charlie Bracken","scrum half",11,70.89,1,0,0,0,0,14,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+271663,2448,"Bath Rugby",127565,"Kaden Pearce-Paul","second row",11,68.69,0,2,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+271663,2448,"Bath Rugby",239399,"Max Eke","flanker",6,65.87,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+271663,2581,"Saracens",138007,"GJ van Velze","second row",80,63.74,7,1,5,2,0,0,0,0,17,1,0,0,1,0,0,0,0,0,0,2
+271663,2581,"Saracens",193942,"Chris Cloete","flanker",80,78.64,9,3,8,0,0,5,0,1,21,1,0,0,0,0,0,0,0,0,0,0
+271663,2581,"Saracens",220475,"Orlando Bailey","fly half",74,70.82,3,1,3,0,0,10,1,1,6,1,0,0,0,0,1,0,7,0,4,1
+271663,2581,"Saracens",225778,"Tom Dunn","hooker",63,75.37,14,1,12,0,0,3,0,1,22,0,11,0,0,0,0,0,0,0,0,0
+271663,2581,"Saracens",195208,"Miles Reid","number eight",67,78.76,5,2,7,0,0,3,0,1,15,1,0,0,2,0,0,0,0,0,2,0
+271663,2581,"Saracens",112538,"Ruaridh McConnochie","left wing",59,60.12,5,0,1,1,0,0,0,0,10,0,0,0,0,0,0,0,1,0,2,2
+271663,2581,"Saracens",111662,"Ben Spencer","scrum half",75,85.85,1,0,3,0,0,46,0,0,1,0,0,0,0,0,7,0,14,0,2,0
+271663,2581,"Saracens",130283,"Beno Obano","loosehead prop",63,88.04,5,0,8,0,0,1,0,2,18,1,0,0,1,0,0,0,0,0,0,0
+271663,2581,"Saracens",139876,"Josh McNally","second row",63,79.6,4,0,2,1,0,0,0,0,22,0,0,0,1,0,0,0,0,0,0,0
+271663,2581,"Saracens",184945,"Ted Hill","flanker",80,75.71,6,3,14,1,0,9,0,0,11,0,0,0,11,0,0,0,0,0,4,1
+271663,2581,"Saracens",108714,"Will Stuart","tighthead prop",63,67.73,9,0,7,1,0,2,0,0,18,1,0,0,0,0,0,0,0,0,0,0
+271663,2581,"Saracens",131724,"Ollie Lawrence","outside centre",80,83.29,7,1,5,0,0,2,0,1,7,0,0,0,0,0,0,0,1,0,1,0
+271663,2581,"Saracens",159960,"Matt Gallagher","full back",80,84.76,2,2,14,0,0,6,0,0,4,0,0,0,0,0,0,0,12,0,17,0
+271663,2581,"Saracens",179563,"Joe Cokanasiga","right wing",80,60.72,4,1,5,1,0,1,0,0,6,0,0,0,0,0,0,0,0,0,1,3
+271663,2581,"Saracens",175011,"Max Ojomoh","inside centre",80,70.85,5,1,4,0,0,6,0,0,3,1,0,0,0,0,0,0,0,0,2,0
+271663,2581,"Saracens",159461,"Jonathan Joseph","left wing",21,95.85,2,0,3,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+271663,2581,"Saracens",143754,"Niall Annett","Hooker",17,96.16,2,0,4,0,0,4,0,0,5,0,3,0,0,0,0,0,0,0,1,0
+271663,2581,"Saracens",174651,"Dave Attwood","second row",17,94.74,5,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,1,0
+271663,2581,"Saracens",172959,"D'arcy Rae","Tighthead Prop",17,56.45,4,1,1,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+271663,2581,"Saracens",223187,"Juan Schoeman","Loosehead Prop",17,55.54,3,3,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,1,0
+271663,2581,"Saracens",100192,"Josh Bayliss","number eight",13,73.65,0,0,1,0,0,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0
+271663,2581,"Saracens",196813,"Piers Francis","fly half",6,62.88,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0
+271663,2581,"Saracens",224220,"Max Green","scrum half",5,68.59,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271736,4581,"Bristol Bears",212999,"AJ MacGinty","fly half",80,92.86,6,0,10,0,0,18,0,0,10,0,0,0,0,0,5,1,12,1,2,0
+271736,4581,"Bristol Bears",183340,"Harry Thacker","hooker",80,73.4,15,2,11,2,0,10,0,1,14,1,17,0,0,0,0,0,0,0,2,2
+271736,4581,"Bristol Bears",206810,"Chris Vui","second row",80,83.84,12,2,15,2,0,8,0,0,14,0,0,0,7,1,0,0,0,0,3,1
+271736,4581,"Bristol Bears",135370,"Ioan Lloyd","left wing",68,82.54,1,0,8,1,0,5,0,0,9,1,0,0,0,0,0,0,1,0,5,1
+271736,4581,"Bristol Bears",208392,"Charles Piutau","full back",80,78.48,3,2,19,1,0,12,0,0,8,0,1,0,1,0,0,0,3,0,7,0
+271736,4581,"Bristol Bears",142481,"Steven Luatua","flanker",72,73.67,6,0,4,2,0,4,0,0,18,0,0,0,2,0,0,0,0,0,2,0
+271736,4581,"Bristol Bears",195214,"Harry Randall","scrum half",64,95.51,2,1,5,1,0,71,0,0,1,0,0,0,0,0,0,0,12,0,2,0
+271736,4581,"Bristol Bears",193564,"Yann Thomas","loosehead prop",59,72.57,4,0,4,1,0,3,0,0,13,1,0,0,0,0,0,0,0,0,0,0
+271736,4581,"Bristol Bears",218680,"Kyle Sinckler","tighthead prop",53,68.75,7,1,4,1,0,5,0,0,10,2,0,0,0,0,0,0,0,0,0,0
+271736,4581,"Bristol Bears",131596,"Sam Jeffries","flanker",80,74.52,13,0,3,1,0,10,0,0,17,2,0,0,2,0,0,0,0,0,1,0
+271736,4581,"Bristol Bears",156903,"James Williams","inside centre",61,80.07,5,0,5,1,0,10,0,0,14,0,0,0,0,0,0,0,0,0,0,1
+271736,4581,"Bristol Bears",143950,"Semi Radradra Waqavatu","outside centre",80,80.96,10,2,11,0,0,8,0,1,9,1,0,0,0,0,0,0,0,0,1,0
+271736,4581,"Bristol Bears",147794,"Joe Batley","second row",80,68.37,5,1,5,2,0,7,0,0,13,1,0,0,9,0,0,0,0,0,2,0
+271736,4581,"Bristol Bears",168050,"Siva Naulago","right wing",80,74.97,5,5,13,2,0,5,0,1,8,0,0,0,0,0,0,0,0,0,3,0
+271736,4581,"Bristol Bears",112066,"Fitz Harding","number eight",35,89.33,4,0,4,0,0,3,0,0,14,0,0,0,0,0,0,0,0,0,1,0
+271736,4581,"Bristol Bears",156550,"Magnus Bradbury","number eight",45,97.02,8,0,6,0,0,2,0,1,10,0,0,0,0,0,0,0,0,0,2,0
+271736,4581,"Bristol Bears",130811,"Max Lahiff","Tighthead Prop",27,61.35,3,2,2,1,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+271736,4581,"Bristol Bears",106402,"Jake Woolmore","Loosehead Prop",21,79.32,4,0,1,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,1,0
+271736,4581,"Bristol Bears",191866,"Sam Bedlow","inside centre",19,76.12,7,1,1,0,0,7,0,0,2,0,0,0,0,0,0,0,0,0,0,1
+271736,4581,"Bristol Bears",111797,"Andy Uren","scrum half",16,71.9,4,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+271736,4581,"Bristol Bears",169594,"Piers O'Conor","left wing",12,79.92,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+271736,4581,"Bristol Bears",126962,"Jake Heenan","flanker",8,91.25,2,0,1,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,1
+271736,4293,"Gloucester Rugby",164903,"Ben Morgan","number eight",56,56.98,8,4,7,0,0,3,0,0,8,0,0,0,0,0,0,0,0,0,2,0
+271736,4293,"Gloucester Rugby",182760,"Mayco Vivas","loosehead prop",40,71.96,7,1,2,0,0,1,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+271736,4293,"Gloucester Rugby",163400,"George McGuigan","hooker",61,87.2,14,0,3,0,0,3,0,0,14,0,6,1,0,0,0,0,0,0,1,0
+271736,4293,"Gloucester Rugby",203694,"Freddie Clarke","second row",80,78.05,15,0,4,2,0,14,0,0,11,2,0,0,6,0,0,0,0,0,2,0
+271736,4293,"Gloucester Rugby",117823,"Matias Alemanno","second row",61,72.55,12,1,1,0,0,1,0,0,4,0,0,0,4,0,0,0,1,0,0,0
+271736,4293,"Gloucester Rugby",110891,"Steve Varney","scrum half",80,55.62,10,5,2,1,0,60,1,0,0,1,0,0,0,0,0,0,10,0,7,1
+271736,4293,"Gloucester Rugby",124069,"Ollie Thorley","left wing",80,66.67,10,2,8,2,0,5,0,1,7,2,0,0,0,0,0,0,0,1,4,0
+271736,4293,"Gloucester Rugby",196656,"Chris Harris","outside centre",76,62.72,18,2,5,0,0,8,0,0,7,1,0,0,0,0,0,0,0,0,0,0
+271736,4293,"Gloucester Rugby",109648,"Seb Atkinson","inside centre",80,88.14,11,1,7,1,0,23,0,0,11,0,1,0,0,0,0,0,2,0,5,1
+271736,4293,"Gloucester Rugby",201234,"Kirill Gotovtsev","tighthead prop",61,76.59,14,1,3,0,0,0,0,0,11,0,0,0,1,0,0,0,0,0,0,0
+271736,4293,"Gloucester Rugby",133065,"Adam Hastings","fly half",80,57.15,8,5,5,2,0,24,0,0,3,0,0,0,0,0,1,0,5,0,3,0
+271736,4293,"Gloucester Rugby",113799,"Jack Clement","flanker",80,67.66,11,5,10,2,0,14,0,0,9,0,0,0,0,0,0,0,0,0,2,0
+271736,4293,"Gloucester Rugby",209756,"Lewis Ludlow","flanker",80,65.49,8,3,3,1,0,2,0,0,23,0,0,0,3,0,0,0,0,0,1,0
+271736,4293,"Gloucester Rugby",183146,"Jonny May","right wing",80,70.96,7,0,7,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+271736,4293,"Gloucester Rugby",189982,"Santiago Carreras","full back",61,59.29,6,0,6,2,0,10,0,0,1,1,0,0,0,0,0,0,6,0,6,1
+271736,4293,"Gloucester Rugby",213184,"Val Rapava Ruskin","loosehead prop",40,96.05,5,1,4,0,0,6,0,0,9,0,0,0,0,0,0,0,0,0,1,0
+271736,4293,"Gloucester Rugby",196875,"Freddie Thomas","number eight",24,54.8,3,3,3,0,0,3,0,0,4,0,0,0,1,0,0,0,0,0,1,0
+271736,4293,"Gloucester Rugby",137490,"Seb Blake","hooker",19,64.06,3,0,3,0,0,1,0,0,2,0,8,0,0,0,0,0,0,0,0,1
+271736,4293,"Gloucester Rugby",115741,"Billy Twelvetrees","full back",19,88.4,5,0,0,1,0,19,0,0,1,0,0,0,1,0,1,0,4,0,1,1
+271736,4293,"Gloucester Rugby",155487,"Jamal Ford-Robinson","tighthead prop",19,65.97,1,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+271736,4293,"Gloucester Rugby",120165,"Cameron Jordan","second row",19,71.95,2,0,1,0,0,2,0,0,3,1,0,0,2,0,0,0,0,0,0,0
+271736,4293,"Gloucester Rugby",199072,"Alex Hearle","outside centre",4,62.66,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271725,1479,"London Irish",225024,"Harvey Skinner","fly half",80,75.04,12,1,2,2,0,5,0,0,9,2,0,0,0,0,0,0,11,0,4,2
+271725,1479,"London Irish",233237,"Immanuel Feyi-Waboso","right wing",80,71.41,3,4,8,0,0,1,0,0,14,2,0,0,0,0,0,0,1,0,7,4
+271725,1479,"London Irish",161208,"Alec Hepburn","loosehead prop",51,77.05,3,2,9,1,0,7,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+271725,1479,"London Irish",147666,"Josh Iosefa-Scott","tighthead prop",51,74.78,3,1,6,0,0,1,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+271725,1479,"London Irish",132680,"Jack Innard","hooker",51,73.1,6,1,9,1,0,4,0,0,16,0,9,2,0,0,0,0,0,0,1,0
+271725,1479,"London Irish",121275,"Christ Tshiunza","flanker",80,63.24,5,0,1,1,0,3,0,0,34,1,0,0,6,0,0,0,0,0,1,2
+271725,1479,"London Irish",128743,"Stu Townsend","scrum half",60,93.94,3,1,6,1,0,59,0,0,6,0,0,0,0,0,0,0,14,0,3,2
+271725,1479,"London Irish",164486,"Ollie Devoto","inside centre",62,67.31,2,3,6,0,0,5,0,0,13,0,0,0,0,0,0,0,0,0,1,0
+271725,1479,"London Irish",172979,"Jacques Vermeulen","flanker",56,91.24,7,0,15,0,0,1,0,1,8,0,0,0,0,0,0,0,1,0,1,0
+271725,1479,"London Irish",148279,"Jannes Kirsten","second row",62,85.72,6,2,6,1,0,4,0,0,39,0,0,0,0,0,0,0,0,0,2,0
+271725,1479,"London Irish",138016,"Henry Slade","outside centre",80,75.47,2,1,2,0,0,3,0,0,8,0,0,0,0,0,2,0,7,0,4,0
+271725,1479,"London Irish",149837,"Jack Dunne","second row",80,80.45,7,0,6,0,0,1,0,0,16,0,0,0,5,0,0,0,0,0,3,0
+271725,1479,"London Irish",170455,"Greg Fisilau","number eight",80,55.5,12,1,14,3,0,3,0,0,23,0,0,0,0,0,0,0,0,0,2,2
+271725,1479,"London Irish",184679,"Tom Wyatt","left wing",80,80.88,6,1,7,1,0,3,0,0,6,0,0,0,0,0,0,0,4,0,11,2
+271725,1479,"London Irish",169495,"Josh Hodge","full back",80,76.26,4,1,7,1,0,0,0,0,6,0,0,0,0,0,0,0,6,1,8,1
+271725,1479,"London Irish",200904,"Iestyn Harris","hooker",29,72.83,3,0,4,0,0,0,0,0,5,0,2,0,0,0,0,0,0,0,0,0
+271725,1479,"London Irish",160437,"Marcus Street","tighthead prop",29,83.56,5,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0
+271725,1479,"London Irish",203342,"Billy Keast","loosehead prop",29,74.56,8,1,3,0,0,1,0,0,8,1,0,0,0,0,0,0,0,0,1,0
+271725,1479,"London Irish",195043,"Aidon Davis","flanker",24,67.36,2,0,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+271725,1479,"London Irish",120383,"Mike Williams","second row",18,68.2,3,1,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+271725,1479,"London Irish",208783,"Tom Cairns","scrum half",20,58.2,2,0,0,0,0,5,0,0,2,0,0,0,0,0,0,0,2,0,0,0
+271725,1479,"London Irish",169085,"Tom Hendrickson","inside centre",18,94.95,2,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0
+271725,1574,"Exeter Chiefs",131095,"Ben Loader","right wing",80,80.1,4,1,6,1,0,2,0,0,9,0,0,0,0,0,0,0,3,0,9,3
+271725,1574,"Exeter Chiefs",147091,"Juan Martin Gonzalez Samso","flanker",80,70.34,18,1,6,2,0,2,0,2,13,0,0,0,1,0,0,0,1,0,4,2
+271725,1574,"Exeter Chiefs",205182,"Api Ratuniyarawa","second row",52,60.34,7,6,2,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+271725,1574,"Exeter Chiefs",123723,"Danilo Fischetti","loosehead prop",72,70.94,17,1,6,0,0,0,0,0,15,1,0,0,0,0,0,0,0,0,2,0
+271725,1574,"Exeter Chiefs",217783,"Agustin Creevy","hooker",40,81.59,12,0,0,0,0,0,0,0,11,0,4,0,0,0,0,0,0,0,0,0
+271725,1574,"Exeter Chiefs",188057,"Ben White","scrum half",56,86.11,13,1,3,2,0,22,0,0,3,0,0,0,0,0,0,0,18,0,5,0
+271725,1574,"Exeter Chiefs",217606,"Benhard Janse van Rensburg","outside centre",80,63.9,11,2,1,1,0,5,0,0,7,0,0,0,0,0,0,0,0,0,0,1
+271725,1574,"Exeter Chiefs",199516,"Rob Simmons","second row",80,75.64,14,1,2,0,0,4,0,0,12,0,0,0,7,0,0,0,0,0,1,0
+271725,1574,"Exeter Chiefs",229505,"Lucio Cinti Luna","left wing",80,67.67,4,1,5,3,0,3,0,0,5,0,0,0,0,0,0,0,2,0,3,9
+271725,1574,"Exeter Chiefs",134130,"Matt Rogerson","flanker",52,72.79,19,1,2,0,0,2,0,0,7,0,0,0,2,0,0,0,0,0,1,1
+271725,1574,"Exeter Chiefs",198867,"So'otala Fa'aso'o","number eight",62,58.2,12,1,3,0,0,1,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+271725,1574,"Exeter Chiefs",161516,"Henry Arundell","full back",65,76.96,2,0,5,1,0,0,0,0,3,0,0,0,0,0,0,0,3,0,7,0
+271725,1574,"Exeter Chiefs",186117,"Rory Jennings","inside centre",80,67.33,10,1,4,1,0,6,1,0,9,0,0,0,0,0,0,0,2,1,2,0
+271725,1574,"Exeter Chiefs",113433,"Oliver Hoskins","tighthead prop",52,66.88,14,0,4,1,0,0,0,0,9,0,0,0,1,0,0,0,0,0,0,2
+271725,1574,"Exeter Chiefs",198219,"Paddy Jackson","fly half",80,74.96,7,2,2,1,0,16,0,0,2,0,0,0,0,0,1,4,23,1,8,3
+271725,1574,"Exeter Chiefs",166278,"Mike Willemse","Hooker",40,72.33,5,0,0,0,0,2,0,0,15,1,8,0,0,0,0,0,0,0,1,0
+271725,1574,"Exeter Chiefs",219643,"Tom Pearson","flanker",28,82.93,3,0,4,0,0,2,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+271725,1574,"Exeter Chiefs",223904,"Lovejoy Chawatama","Tighthead Prop",28,74.32,4,0,2,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+271725,1574,"Exeter Chiefs",194848,"Josh Caulfield","second row",28,81.04,7,0,3,0,0,0,0,0,8,0,0,0,3,0,0,0,0,0,2,2
+271725,1574,"Exeter Chiefs",210921,"Joe Powell","scrum half",24,60.64,1,1,0,1,0,22,1,0,1,0,0,0,0,0,0,0,3,0,2,0
+271725,1574,"Exeter Chiefs",240631,"Chandler Cunningham-South","number eight",18,98.81,0,0,7,0,0,2,0,0,3,0,0,0,0,0,0,0,0,0,1,0
+271725,1574,"Exeter Chiefs",173758,"James Stokes","full back",15,71.79,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+271725,1574,"Exeter Chiefs",104471,"Tarek Haffar","Loosehead Prop",8,77.88,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+271683,1711,"Leicester Tigers",219771,"Handre Pollard","fly half",64,78.18,7,3,4,0,0,4,0,0,1,0,0,0,0,0,2,0,12,0,4,0
+271683,1711,"Leicester Tigers",183880,"Tommy Reffell","flanker",80,64.4,11,1,3,0,0,0,0,1,38,1,0,0,0,0,0,0,0,0,0,0
+271683,1711,"Leicester Tigers",137153,"Jasper Wiese","number eight",48,74.94,5,0,14,1,0,1,0,0,8,0,0,0,0,0,0,0,0,0,2,1
+271683,1711,"Leicester Tigers",162344,"Julian Montoya","hooker",48,78.22,8,1,3,0,0,2,0,0,24,0,9,0,2,0,0,0,0,0,0,0
+271683,1711,"Leicester Tigers",156512,"Hanro Liebenberg","flanker",80,52.82,12,2,4,1,0,0,0,0,14,4,0,0,15,0,0,0,0,0,2,0
+271683,1711,"Leicester Tigers",215402,"Ben Youngs","scrum half",51,66.65,1,2,4,0,0,36,1,0,0,1,0,0,0,0,0,0,12,1,4,0
+271683,1711,"Leicester Tigers",195116,"Harry Potter","left wing",80,70.89,4,1,8,4,0,1,0,0,2,0,0,0,0,0,0,0,2,0,5,3
+271683,1711,"Leicester Tigers",214400,"Dan Kelly","inside centre",80,73.9,12,2,4,0,0,3,0,0,8,1,0,0,0,0,0,0,0,0,3,0
+271683,1711,"Leicester Tigers",115232,"Guy Porter","outside centre",70,69.31,12,1,0,2,0,0,0,0,6,0,0,0,0,0,0,0,1,0,1,0
+271683,1711,"Leicester Tigers",202962,"Cameron Henderson","second row",12,70.86,12,2,2,1,0,0,0,0,6,1,0,0,1,2,0,0,0,0,0,1
+271683,1711,"Leicester Tigers",219749,"Chris Ashton","right wing",38,68.48,2,2,3,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,4,0
+271683,1711,"Leicester Tigers",177699,"Tom West","loosehead prop",48,80.82,4,0,2,0,0,0,0,0,17,1,0,0,0,0,0,0,0,0,0,0
+271683,1711,"Leicester Tigers",177015,"Harry Wells","second row",80,77.73,18,0,4,1,0,0,0,0,24,1,0,0,4,0,0,0,0,0,1,0
+271683,1711,"Leicester Tigers",169381,"Dan Cole","tighthead prop",48,79.79,6,0,2,0,0,2,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+271683,1711,"Leicester Tigers",195049,"Mike Brown","full back",80,75.7,3,0,8,0,0,2,0,0,6,0,0,0,0,0,0,0,3,0,9,3
+271683,1711,"Leicester Tigers",216656,"Charlie Clare","Hooker",32,58.08,8,0,1,2,0,0,0,0,5,0,8,0,0,0,0,0,0,0,0,0
+271683,1711,"Leicester Tigers",134796,"Joe Heyes","Tighthead Prop",32,71.89,9,0,2,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0
+271683,1711,"Leicester Tigers",116821,"Francois van Wyk","Loosehead Prop",32,64.21,3,0,2,1,0,0,0,0,7,1,0,0,0,0,0,0,0,0,0,0
+271683,1711,"Leicester Tigers",216823,"Olly Cracknell","number eight",32,75.82,8,1,6,0,0,0,0,0,7,1,0,0,0,0,0,0,0,0,0,0
+271683,1711,"Leicester Tigers",113737,"Jack van Poortvliet","scrum half",29,71.92,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,6,0,1,0
+271683,1711,"Leicester Tigers",135428,"Jimmy Gopperth","fly half",16,65.87,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,5,1,0,0
+271683,1711,"Leicester Tigers",239271,"Finn Carnduff","second row",10,92.37,3,0,0,0,0,2,0,0,4,0,0,0,1,0,0,0,0,0,0,0
+271683,1711,"Leicester Tigers",163815,"Matt Scott","outside centre",10,74.73,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271683,1229,"Harlequins",203721,"Irne Herbst","second row",80,72.92,12,1,3,1,0,4,0,0,29,1,0,0,3,0,0,0,0,0,1,1
+271683,1229,"Harlequins",194888,"Will Collier","tighthead prop",80,79.2,6,0,1,0,0,1,0,0,23,0,0,0,0,0,0,0,0,0,1,0
+271683,1229,"Harlequins",175826,"Jack Kenningham","flanker",78,54.53,7,1,8,0,0,5,0,0,21,1,0,0,4,0,0,0,0,0,1,0
+271683,1229,"Harlequins",137369,"Nick David","full back",12,78.93,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+271683,1229,"Harlequins",143933,"Will Evans","flanker",80,66.67,13,3,5,2,0,2,0,0,45,1,0,0,0,0,0,0,2,0,4,0
+271683,1229,"Harlequins",206497,"Danny Care","scrum half",62,78.05,5,2,3,1,0,52,0,0,2,1,0,0,0,0,0,0,17,2,3,0
+271683,1229,"Harlequins",203313,"Joe Marler","loosehead prop",80,74.66,9,2,12,0,0,5,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+271683,1229,"Harlequins",170454,"Dino Lamb","second row",71,72.46,7,0,8,1,0,1,0,0,15,1,0,0,6,0,0,0,0,0,1,1
+271683,1229,"Harlequins",180038,"Alex Dombrandt","number eight",80,74.24,6,1,7,0,0,6,0,0,26,2,0,0,0,0,0,0,0,0,2,0
+271683,1229,"Harlequins",149058,"Sam Riley","hooker",71,63.59,8,1,7,0,0,3,0,0,14,0,13,3,0,0,0,0,0,0,1,0
+271683,1229,"Harlequins",189326,"Marcus Smith","fly half",80,81.24,7,0,4,0,0,16,0,0,6,0,0,0,0,0,3,0,14,1,2,2
+271683,1229,"Harlequins",110793,"Cadan Murley","right wing",80,76.69,3,1,9,3,0,4,0,1,12,0,0,0,0,0,0,0,0,1,5,4
+271683,1229,"Harlequins",122943,"Joe Marchant","outside centre",80,72.55,11,2,3,0,0,4,0,0,10,1,0,0,0,0,0,0,0,0,1,0
+271683,1229,"Harlequins",202081,"Josh Bassett","left wing",80,83.74,1,0,10,0,0,6,0,0,6,0,0,0,0,0,0,0,2,0,11,2
+271683,1229,"Harlequins",127914,"Andre Esterhuizen","inside centre",80,84.18,8,2,10,0,0,8,0,0,10,1,0,0,0,0,0,0,2,0,1,1
+271683,1229,"Harlequins",209105,"Louis Lynagh","full back",68,70.39,6,2,6,1,0,2,0,0,11,0,0,0,0,0,0,0,0,0,3,2
+271683,1229,"Harlequins",118972,"Lewis Gjaltema","scrum half",18,83.37,1,0,2,0,0,17,0,0,1,0,0,0,0,0,0,0,5,1,1,0
+271683,1229,"Harlequins",185447,"Jack Musk","hooker",9,95.74,4,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+271683,1229,"Harlequins",158074,"George Hammond","second row",9,61.33,1,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+271683,1229,"Harlequins",104022,"Will Trenholm","flanker",2,99.93,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+271739,3964,"Sale Sharks",205702,"Brett Connon","fly half",71,59.22,0,1,2,0,0,10,1,0,4,1,0,0,0,0,1,0,18,1,3,0
+271739,3964,"Sale Sharks",207425,"Philip van der Walt","flanker",59,63.18,6,2,6,2,0,1,0,0,10,1,0,0,0,0,0,0,0,0,0,0
+271739,3964,"Sale Sharks",236968,"Pedro Rubiolo","flanker",80,71.13,13,2,6,1,0,4,0,1,14,1,0,0,3,0,0,0,0,0,1,1
+271739,3964,"Sale Sharks",168127,"Greg Peterson","second row",80,71.47,11,1,1,1,0,4,0,0,19,1,0,0,8,0,0,0,0,0,0,1
+271739,3964,"Sale Sharks",137624,"Sam Stuart","scrum half",59,95.34,7,0,5,0,0,46,0,0,0,0,0,0,0,0,0,0,8,2,4,1
+271739,3964,"Sale Sharks",160415,"Jamie Blamire","right wing",78,75.61,6,4,11,1,0,9,0,1,9,0,19,2,2,0,0,0,0,0,2,0
+271739,3964,"Sale Sharks",154551,"Sebastian de Chaves","second row",80,64.25,4,1,0,1,0,3,0,0,7,2,0,0,9,0,0,0,0,0,0,0
+271739,3964,"Sale Sharks",168872,"Callum Chick","number eight",30,75.13,2,0,4,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+271739,3964,"Sale Sharks",182877,"Matias Orlando","inside centre",55,83.27,8,1,5,0,0,2,0,0,7,0,0,0,0,0,0,0,1,0,2,0
+271739,3964,"Sale Sharks",164792,"Adam Brocklebank","loosehead prop",10,63.78,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+271739,3964,"Sale Sharks",145014,"Elliott Obatoyinbo","full back",80,75.64,3,0,6,0,0,8,0,0,1,0,0,0,0,0,0,0,6,1,12,4
+271739,3964,"Sale Sharks",220597,"Mark Tampin","tighthead prop",51,69.62,9,1,3,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,2,0
+271739,3964,"Sale Sharks",117639,"Phil Brantingham","loosehead prop",60,74.62,7,0,2,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+271739,3964,"Sale Sharks",221884,"Adam Radwan","right wing",77,67.62,3,1,7,3,0,2,0,0,2,0,0,0,0,0,0,0,3,0,7,3
+271739,3964,"Sale Sharks",154458,"Matias Moroni","outside centre",80,69.13,8,2,4,1,0,1,0,0,6,0,0,0,0,0,0,0,3,1,1,0
+271739,3964,"Sale Sharks",165591,"Mateo Carreras","left wing",80,81.73,4,1,7,0,0,1,0,0,2,0,1,0,0,0,0,0,2,0,4,0
+271739,3964,"Sale Sharks",208422,"Carl Fearns","number eight",50,79.74,4,0,11,0,0,4,1,0,4,0,0,0,0,0,0,0,0,0,3,0
+271739,3964,"Sale Sharks",200621,"Richard Palframan","tighthead prop",29,70.49,2,1,4,0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+271739,3964,"Sale Sharks",135739,"Tian Schoeman","inside centre",25,74.1,1,1,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0
+271739,3964,"Sale Sharks",219782,"Freddie Lockwood","flanker",21,80.46,2,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+271739,3964,"Sale Sharks",207428,"Josh Barton","scrum half",21,56.8,1,1,2,2,0,12,0,0,0,0,0,0,1,0,0,0,1,0,1,1
+271739,3964,"Sale Sharks",177398,"Josh Thomas","fly half",9,83.35,1,0,1,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,1
+271739,3964,"Sale Sharks",192960,"Conrad Cade","hooker",5,68,1,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+271739,2038,"Newcastle Falcons",199800,"Robert du Preez","outside centre",80,70.16,7,2,3,0,0,11,0,0,1,1,0,0,0,0,0,0,1,2,4,0
+271739,2038,"Newcastle Falcons",207429,"Jean-Luc du Preez","second row",48,82.61,8,0,12,1,0,1,1,0,4,0,0,0,5,0,0,0,0,0,1,0
+271739,2038,"Newcastle Falcons",226027,"Jono Ross","number eight",55,63.14,10,3,3,2,0,4,0,0,9,0,0,0,2,1,0,0,0,0,2,0
+271739,2038,"Newcastle Falcons",141860,"Ewan Ashman","hooker",63,78.82,6,1,6,0,0,3,0,0,10,0,10,2,0,0,0,0,0,0,0,0
+271739,2038,"Newcastle Falcons",160844,"Raffi Quirke","scrum half",63,88.78,5,0,3,3,0,40,0,1,1,0,0,0,0,0,0,0,12,1,7,1
+271739,2038,"Newcastle Falcons",137093,"Jonny Hill","second row",63,69.82,6,2,5,0,0,3,0,0,6,2,0,0,1,0,0,0,0,0,2,0
+271739,2038,"Newcastle Falcons",158302,"Bevan Rodd","loosehead prop",48,93.31,8,0,2,0,0,0,0,1,11,0,0,0,0,0,0,0,0,0,0,0
+271739,2038,"Newcastle Falcons",203599,"Coenie Oosthuizen","tighthead prop",48,71.62,3,1,1,0,0,3,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+271739,2038,"Newcastle Falcons",101339,"Ben Curry","flanker",75,91.32,21,2,4,0,0,3,0,1,12,0,0,0,1,0,0,0,2,0,3,0
+271739,2038,"Newcastle Falcons",205975,"Sam Dugdale","flanker",80,66.98,14,4,7,1,0,1,0,0,10,0,0,0,0,1,0,0,0,0,2,0
+271739,2038,"Newcastle Falcons",169657,"Manu Tuilagi","inside centre",16,70.77,2,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+271739,2038,"Newcastle Falcons",102642,"George Ford","fly half",80,84.41,9,1,1,0,0,25,0,0,0,0,0,0,0,0,6,0,21,1,5,0
+271739,2038,"Newcastle Falcons",149322,"Tom Roebuck","right wing",80,68.36,0,1,4,2,0,1,0,1,1,0,0,0,0,0,0,0,1,0,4,2
+271739,2038,"Newcastle Falcons",203831,"Joe Carpenter","full back",80,74.36,2,1,5,0,0,8,0,0,1,0,0,0,0,0,0,0,3,0,9,2
+271739,2038,"Newcastle Falcons",113103,"Arron Reed","left wing",80,81.72,6,1,5,0,0,4,0,1,3,0,0,0,0,0,0,0,0,0,4,2
+271739,2038,"Newcastle Falcons",179787,"Sam James","inside centre",64,82.25,2,1,1,0,0,4,0,2,2,0,0,0,0,0,0,0,1,0,0,0
+271739,2038,"Newcastle Falcons",123738,"James Harper","tighthead prop",32,80.03,5,1,3,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,1,0
+271739,2038,"Newcastle Falcons",116618,"Tom Ellis","second row",32,81.18,10,1,3,0,0,1,0,0,4,0,0,0,2,0,0,0,0,0,1,0
+271739,2038,"Newcastle Falcons",221308,"Simon McIntyre","loosehead prop",32,72.42,6,1,0,0,0,1,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+271739,2038,"Newcastle Falcons",110588,"Josh Beaumont","number eight",25,82.7,3,0,3,0,0,2,0,0,4,0,0,0,0,0,0,0,0,0,2,2
+271739,2038,"Newcastle Falcons",109874,"Ethan Caine","Hooker",17,78.33,3,1,0,0,0,2,0,0,6,0,3,0,0,0,0,0,0,0,0,0
+271739,2038,"Newcastle Falcons",141178,"Alex Groves","second row",17,81.02,4,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+271739,2038,"Newcastle Falcons",111656,"Will Cliff","scrum half",17,57.94,0,0,0,1,0,8,0,0,1,0,0,0,0,0,0,1,2,0,1,0
