@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import RugbyApi from '../api/api'
+import DefenseCard from '../components/DefenseCard'
+import OffenseCard from '../components/OffenseCard'
 
 const Player = () => {
     const { match_id, player_id } = useParams()
@@ -25,16 +27,31 @@ const Player = () => {
                     <h2>{player.team_name}</h2>
                     <h3>{player.player_position}</h3>
                 </div>
-                <div className='player-statistics'>
-                    <div className='scoring-container'>
-                        {/* two columns, left side has statistic name, right side has numeric value */}
-                    </div>
-                    <div className='attacking-container'>
-
-                    </div>
-                    <div className='defending-container'>
-
-                    </div>
+                <div className='statistics-container'>
+                    <OffenseCard
+                        carries={player.carries}
+                        carryErrors={player.carry_errors}
+                        goalKicks={player.goal_kicks_made}
+                        goalKickErrors={player.goal_kicks_errors}
+                        passes={player.passes}
+                        passErrors={player.pass_errors}
+                        triesScored={player.tries_scored}
+                        lineoutThrows={player.lineout_throws}
+                        lineoutThrowErrors={player.lineout_throw_errors}
+                        metresCarried={player.metres_carried}
+                    />
+                    <DefenseCard
+                        tackles={player.tackles}
+                        tackleErrors={player.tackle_errors}
+                        kicks={player.kicks}
+                        kickErrors={player.kick_errors}
+                        lineoutContestsWon={player.lineout_contests_won}
+                        lineoutContestErrors={player.lineout_contest_errors}
+                        receptionSuccess={player.reception_success}
+                        receptionError={player.reception_failure}
+                        ruckEntries={player.ruck_entries}
+                        ruckErrors={player.ruck_errors}
+                    />
                 </div>
             </div>
         </div>
